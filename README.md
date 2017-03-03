@@ -1,2 +1,1 @@
-# Prework
-Repozytorium na potrzeby kursu
+# sit_on_chair 
